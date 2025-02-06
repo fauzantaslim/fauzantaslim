@@ -8,7 +8,7 @@
 - 🌱 I’m currently diving deep into **web and mobile development**. Still figuring out which is more frustrating: coding or choosing the perfect stack.
 - 📫 How to reach me: **fauzantaslim123@gmail.com**.
 
-<h3 align="left">Connect with me:</h3>
+#📱 Connect with me::
 <p align="left">
 <a href="https://linkedin.com/in/fauzan-taslim-962206324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fauzan-taslim-962206324" height="30" width="40" /></a>
 <a href="https://instagram.com/fauzntaslm16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fauzntaslm16" height="30" width="40" /></a>
